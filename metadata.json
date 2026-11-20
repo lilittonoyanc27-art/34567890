@@ -1,0 +1,6 @@
+{
+  "name": "¡La Gran Batalla de Español! — Razmik vs Gayane",
+  "description": "Juego interactivo de español para Razmik y Gayane con 12 juegos distintos, soporte en armenio, cronómetros independientes y modo torneo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
